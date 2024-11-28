@@ -1,0 +1,10 @@
+after typing space:
+- underline the word if it isnt finished
+-
+
+after typing a letter:
+- if the letter is correct, highlight it in black
+- if the letter is not correct:
+	- if the letter is not overflowing, display expected letter highlighted in red
+	- if the letter is overflowing, display typed letter highlighted in dark red, after the word
+	- in all cases underline the word in red
